@@ -105,6 +105,9 @@ A curated selection of artisanal consensus algorithms and hand-crafted distribut
 * [PaxosLease: Diskless Paxos for Leases](https://arxiv.org/abs/1209.4187)
 
 ## Stellar
+
+* [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity (PoA) blockchain that rewards vintage hardware (PowerPC, SPARC, 68K) for mining. Older computers earn higher multipliers.
+
 * [The Stellar Consensus Protocol: A Federated Model for Internet-level Consensus](https://www.stellar.org/papers/stellar-consensus-protocol.pdf)
 * [Understanding the Stellar Consensus Protocol](https://medium.com/interstellar/understanding-the-stellar-consensus-protocol-423409aad32e)
 
